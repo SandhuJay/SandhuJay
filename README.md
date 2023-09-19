@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhujay&label=Profile%20views&color=0e75b6&style=flat" alt="sandhujay" /> </p>
 
-- 🔭 I’m currently working on **Content management website**
+- 🔭 I’m currently working on **...Projects...**
 
-- 🌱 I’m currently learning **Block Chain**
+- 🌱 I’m currently learning **.....React.....**
 
 - 📫 How to reach me **jai.sandhu@gmail.com**
 
