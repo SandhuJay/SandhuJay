@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Sandhu</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<h3>Explore my journey in the world of technology and web development through my GitHub repositories.</h3>
+<h4 align="center">I am deeply engaged in the field of web development, where my skills are not just limited to coding but extend to crafting seamless and visually appealing digital experiences.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhujay&label=Profile%20views&color=0e75b6&style=flat" alt="sandhujay" /> </p>
 
