@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **...Projects...**
 
-- 🌱 I’m currently learning **.....React.....**
+- 🌱 A firm believer in the philosophy of lifelong learning, always seeking to expand my knowledge and stay updated with the latest trends in web development.
 
 - 📫 How to reach me **jai.sandhu@gmail.com**
 
