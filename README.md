@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Sandhu</h1> <h3 align="center">A passionate Web developer from India</h3> <h3>Explore my journey in the world of technology and web development through my GitHub repositories.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhujay&label=Profile%20views&color=0e75b6&style=flat" alt="sandhujay" /> </p>
-🔭 I am deeply engaged in the field of web development, where my skills are not just limited to coding but extend to crafting seamless and visually appealing digital experiences.
-I have experience working on both minor and major projects, and I am currently working on React.js + Tailwind Css.
+🔭 I am deeply engaged in the field of web development, where my skills are not just limited to coding but extend to crafting seamless and visually appealing digital 
+  experiences.
+    <br> <b> I have experience working on both minor and major projects, and I am currently working on React.js + Tailwind Css.</b><br>
 🌱 A firm believer in the philosophy of lifelong learning, always seeking to expand my knowledge and stay updated with the latest trends in web development.
 
 📫 How to reach me jai.sandhu@gmail.com
