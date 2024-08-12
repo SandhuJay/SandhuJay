@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=SandhuJay&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
  I'm Jay Sandhu, a seasoned web developer fueled by a passion for turning ideas into immersive digital experiences. With years of experience under my belt, I've honed my skills in frontend and backend development, mastering the art of bringing websites and web applications to life.
 
