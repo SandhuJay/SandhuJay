@@ -2,9 +2,7 @@
   
 
 
-<a href="https://github.com/SandhuJay" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://linkedin.com/in/jaysandhu2763" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -15,7 +13,10 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
  <a href="https://www.geeksforgeeks.org/user/jaisandhu2002/" target="_blank">
-<img src=https://img.shields.io/badge/geeksforgeeks-%231E77B5.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=green alt=geeksforgeeks style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/geeksforgeeks-%231E77B5.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=green alt=GfG style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.hackerrank.com/profile/JAY200227" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%231E77B5.svg?&style=for-the-badge&logo=hackerrank&logoColor=green alt=HackerRank style="margin-bottom: 5px;" />
 </a> 
 
 
