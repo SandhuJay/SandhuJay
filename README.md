@@ -108,5 +108,3 @@ I’m a full-stack developerr. Being a full-stack allows me to not only develop 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
