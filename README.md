@@ -35,7 +35,7 @@ I’m a full-stack developerr. Being a full-stack allows me to not only develop 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Projects  
+- 🔭 I’m currently working on JS 
   
 
 - 🌱 I’m currently learning Docker  
